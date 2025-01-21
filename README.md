@@ -1,6 +1,7 @@
 # MyProject_20250121
 MyStudy_for_GitHub 20250121_1145
 
+<img src="1703169681398.jpg" width="400">
 
 # 【GitHub】
 
